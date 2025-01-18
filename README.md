@@ -64,7 +64,7 @@ I'm an independent Front-End developer and a Full-Stack Software Engineer at Cha
  <summary><h3>My Coding Journey</h3></summary>
       
 During my final years of high school, I sought a college major that would combine my mathematical problem-solving abilities with my passion for business processes. After thorough research, I chose Computer Information Systems, which offered the perfect balance between technology and business.
-My journey into software development began with C++, but it was through Java that my enthusiasm for Software Engineering truly flourished. Pursuing a degree in Computer Information Systems, I deepened my expertise in data structures, algorithms, computer architecture, and front-end design while honing my coding skills in Java C#, and Python.
+My journey into software development began with C++, but it was through Java that my enthusiasm for Software Engineering truly flourished. Pursuing a degree in Computer Information Systems, I deepened my expertise in data structures, algorithms, computer architecture, and front-end design while honing my coding skills in Java, C#, and Python.
 During my undergraduate studies, I discovered a passion for iOS development and quickly immersed myself in learning Swift. Within weeks, I began creating my own applications and published three apps to the App Store:
       
 * [Finance Tracker](https://github.com/AdamBurmuzoski/finance-tracker) (Provides real-time market data, customizable portfolios, presented in a user-friendly experience for tracking investments.)
