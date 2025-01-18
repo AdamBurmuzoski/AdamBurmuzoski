@@ -1,6 +1,6 @@
 # 📱 Adam Burmuzoski
 
-**`Software Engineer`**
+**`Full-Stack Software Engineer`**
 
 I'm an independent Front-End developer and a Full-Stack Software Engineer at Charles Schwab. I enjoy building Angular, React, and iOS applications in my free time, and I've published 3 of them on the App Store.
 
