@@ -46,8 +46,8 @@ I'm an independent Front-End developer and a Full-Stack Software Engineer at Cha
 <a href="https://github.com/AdamBurmuzoski/find-parked-car">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=find-parked-car&show_icons=true&theme=github_dark" alt="caffeine-up" />
 </a>
-<a href="https://github.com/petarilievCS/parkscape">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=petarilievCS&repo=parkscape&show_icons=true&theme=github_dark" alt="parkscape" />
+<a href="https://github.com/AdamBurmuzoski/buxna-finger-chooser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=buxna-finger-chooser&show_icons=true&theme=github_dark" alt="parkscape" />
 </a> 
 <a href="https://github.com/AdamBurmuzoski/json-editor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=json-editor&show_icons=true&theme=github_dark" alt="space-race-analysis" />
