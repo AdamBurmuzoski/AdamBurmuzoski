@@ -9,8 +9,8 @@ I'm an independent Front-End developer and a Full-Stack Software Engineer at Cha
          <img alt="linkedin" title="Add me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-236ad3?style=for-the-badge&logoColor=white&logo=person-add"/></a>
       <a href="https://adamburmuzoski.com/">
          <img alt="portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Projects-%23E05D44?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      <a href='mailto:burmuzoskiadam@gmail.com'>
-         <img alt="email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-burmuzoskiadam@gmail.com-55960c?style=for-the-badge&logo=mention&logoColor=white"/>
+      <a href='mailto:adamburmuzoski@gmail.com'>
+         <img alt="email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-adamburmuzoski@gmail.com-55960c?style=for-the-badge&logo=mention&logoColor=white"/>
     
    </p>
    
