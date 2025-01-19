@@ -44,13 +44,13 @@ I'm an independent Front-End developer and a Full-Stack Software Engineer at Cha
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=finance-tracker&show_icons=true&theme=github_dark" alt="finance-tracker" />
 </a> 
 <a href="https://github.com/AdamBurmuzoski/find-parked-car">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=find-parked-car&show_icons=true&theme=github_dark" alt="caffeine-up" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=find-parked-car&show_icons=true&theme=github_dark" alt="find-parked-car" />
 </a>
 <a href="https://github.com/AdamBurmuzoski/buxna-finger-chooser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=buxna-finger-chooser&show_icons=true&theme=github_dark" alt="parkscape" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=buxna-finger-chooser&show_icons=true&theme=github_dark" alt="buxna-finger-chooser" />
 </a> 
 <a href="https://github.com/AdamBurmuzoski/json-editor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=json-editor&show_icons=true&theme=github_dark" alt="space-race-analysis" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=json-editor&show_icons=true&theme=github_dark" alt="json-editor" />
 </a>
 
  <summary><h3>GitHub Stats</h3></summary>
