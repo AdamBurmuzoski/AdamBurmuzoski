@@ -40,23 +40,17 @@ I'm an independent Front-End developer and a Full-Stack Software Engineer at Cha
 
 ### Projects
 <a href="https://github.com/AdamBurmuzoski/json-editor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=json-editor&show_icons=true&theme=github_dark" alt="json-editor" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=json-editor&show_icons=true&theme=github_dark&cachebust=timestamp" alt="json-editor" />
 </a>
 <a href="https://github.com/AdamBurmuzoski/find-parked-car">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=find-parked-car&show_icons=true&theme=github_dark" alt="find-parked-car" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=find-parked-car&show_icons=true&theme=github_dark&cachebust=timestamp" alt="find-parked-car" />
 </a>
 <a href="https://github.com/AdamBurmuzoski/buxna-finger-chooser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=buxna-finger-chooser&show_icons=true&theme=github_dark" alt="buxna-finger-chooser" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=buxna-finger-chooser&show_icons=true&theme=github_dark&cachebust=timestamp" alt="buxna-finger-chooser" />
 </a> 
 <a href="https://github.com/AdamBurmuzoski/finance-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=finance-tracker&show_icons=true&theme=github_dark" alt="finance-tracker" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=finance-tracker&show_icons=true&theme=github_dark&cachebust=timestamp" alt="finance-tracker" />
 </a> 
-
- <summary><h3>GitHub Stats</h3></summary>
-
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamburmuzoski&show_icons=true&theme=github_dark)
-      
-#
 
 
 
