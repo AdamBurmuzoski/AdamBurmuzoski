@@ -46,7 +46,7 @@ I'm an independent Front-End developer and a Full-Stack Software Engineer at Cha
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=find-parked-car&show_icons=true&theme=github_dark&cachebust=timestamp" alt="find-parked-car" />
 </a>
 <a href="https://github.com/AdamBurmuzoski/buxna-finger-chooser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=buxna-finger-chooser&show_icons=true&theme=github_dark&cachebust=timestamp" alt="buxna-finger-chooser" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=gpt-interaction-model&show_icons=true&theme=github_dark&cachebust=timestamp" alt="gpt-interaction-model" />
 </a> 
 <a href="https://github.com/AdamBurmuzoski/finance-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=finance-tracker&show_icons=true&theme=github_dark&cachebust=timestamp" alt="finance-tracker" />
