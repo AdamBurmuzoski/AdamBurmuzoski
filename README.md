@@ -39,14 +39,14 @@ I'm an independent Front-End developer and a Full-Stack Software Engineer at Cha
 #
 
 ### Projects
-<a href="https://github.com/AdamBurmuzoski/json-editor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=json-editor&show_icons=true&theme=github_dark&cachebust=timestamp" alt="json-editor" />
-</a>
+<a href="https://github.com/AdamBurmuzoski/gpt-interaction-model">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=gpt-interaction-model&show_icons=true&theme=github_dark&cachebust=timestamp" alt="gpt-interaction-model" />
 <a href="https://github.com/AdamBurmuzoski/find-parked-car">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=find-parked-car&show_icons=true&theme=github_dark&cachebust=timestamp" alt="find-parked-car" />
 </a>
-<a href="https://github.com/AdamBurmuzoski/buxna-finger-chooser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=gpt-interaction-model&show_icons=true&theme=github_dark&cachebust=timestamp" alt="gpt-interaction-model" />
+<a href="https://github.com/AdamBurmuzoski/json-editor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=json-editor&show_icons=true&theme=github_dark&cachebust=timestamp" alt="json-editor" />
+</a>
 </a> 
 <a href="https://github.com/AdamBurmuzoski/finance-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamBurmuzoski&repo=finance-tracker&show_icons=true&theme=github_dark&cachebust=timestamp" alt="finance-tracker" />
